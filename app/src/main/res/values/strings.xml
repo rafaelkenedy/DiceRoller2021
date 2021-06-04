@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DiceRoller2021</string>
+    <string name="roll">roll</string>
+    <string name="iv_dice">Dice</string>
+</resources>
